@@ -1,7 +1,5 @@
 package com.company;
 
-import com.company.Hero;
-
 public class Main {
 
     public static void main(String[] args) {
